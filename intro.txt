@@ -7,4 +7,10 @@
 * if any changes or new file is there in ur system, write 
 	"git add file_name";
 
-* 
+* write "git commit -m "commitMessage";
+* write "git push"
+* It will for username and password. change will be committed to github
+
+* if we have any changes in Git code, we can go to our git directory, (after cloning), write "git pull", it will copy those contents..
+
+* "git add -A" will add all the files to the git            "escape : wq"

@@ -1,0 +1,10 @@
+
+* Go to folder where u wanna copy the repo, then write 
+	"git clone copied_clone_link;"
+
+* "git status;" after going to the directory tells whether our current 		version is same as master version on git or not.
+
+* if any changes or new file is there in ur system, write 
+	"git add file_name";
+
+* 
